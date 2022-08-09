@@ -4,4 +4,4 @@ Data Science is one of the biggest growing fields in this decade. Tools and tech
 
 [Google Colab Notebook](https://colab.research.google.com/drive/1ze7eRYzrDydE-iyJaacjFCHA_MBRulWj?usp=sharing)
 
-[Google Slides](https://docs.google.com/presentation/d/1410z9NWKtpM1JWq0tHMxMN5IsPY5c28j20MlcsDWg44/edit#slide=id.p)
+[Google Slides]()
